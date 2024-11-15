@@ -3,6 +3,8 @@
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
+[![704214661 GitHub stats](https://github-readme-stats.vercel.app/api?username=User782Tec&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taha-khamessi-396aba1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha-khamessi-396aba1a3" height="30" width="40" /></a>
