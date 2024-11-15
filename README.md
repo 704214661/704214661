@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 今年汇总 ✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?704214661=anuraghazra&hide=contribs,prs)
 
 <picture>
   <source
